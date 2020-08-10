@@ -2,6 +2,7 @@
 a library for ijkplayer
 
 and you still implementation
+
     // player
     implementation 'tv.danmaku.ijk.media:ijkplayer-java:0.8.8'
 
